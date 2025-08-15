@@ -1,0 +1,13 @@
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+
+wikipedia
+arxivS
+langchain-together
+chromadb
+faiss-cpu
+langchain_hub
